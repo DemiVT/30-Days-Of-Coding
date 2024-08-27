@@ -1,6 +1,4 @@
-Here's a template for your GitHub repository's README file, which will provide a clear and organized description of the projects and tasks you worked on over the 30 days:
 
----
 
 # 30 Days of JavaScript
 
