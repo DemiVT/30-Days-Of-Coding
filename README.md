@@ -8,10 +8,8 @@ Welcome to the "30 Days of JavaScript" repository! This project is a collection 
 
 1. [Introduction](#introduction)
 2. [Project Overview](#project-overview)
-3. [Daily Tasks](#daily-tasks)
-4. [Getting Started](#getting-started)
-5. [Contributing](#contributing)
-6. [License](#license)
+3. [Getting Started](#getting-started)
+
 
 ## Introduction
 
